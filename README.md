@@ -20,6 +20,17 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   Sprawdź: [tutorial venv](https://docs.python.org/3/tutorial/venv.html) oraz [biblioteki flask](http://flask.pocoo.org).
 
+  Uruchomianie aplikacji z pliku Makefile:
+
+  ```
+  #instalacja dependencies
+  $ make deps
+  #uruchomianie testow
+  $ make test
+  #uruchomienie programu
+  $ make run
+  ```
+
 - Uruchamianie applikacji:
 
   ```
@@ -47,7 +58,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
   ```
   ...
 
-  # aktywacja 
+  # aktywacja
   $ source .venv/bin/activate
   ```
 
