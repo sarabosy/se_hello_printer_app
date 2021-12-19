@@ -5,3 +5,7 @@ install:
   - make deps
 script:
   - make test
+deploy:
+provider: heroku
+app: secure-plains-18224
+#api_key: ${HEROKU_API_KEY}

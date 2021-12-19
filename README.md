@@ -66,7 +66,10 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
   ```
   # miejsce na twoje notatki
+  
   ```
+
+- Monitoring strony przez statuscake
 
 # Pomocnicze
 
