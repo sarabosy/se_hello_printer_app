@@ -1,3 +1,5 @@
+USERNAME=wsbtester13
+TAG=$(USERNAME)/hello-world-printer
 .PHONY: test
 
 deps:

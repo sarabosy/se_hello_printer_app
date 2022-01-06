@@ -64,12 +64,13 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 
 - Integracja z TravisCI:
 
-  ```
-  # miejsce na twoje notatki
-  
-  ```
+Aktualny status zbudowanej aplikacji:
+
+  [![Build Status](https://app.travis-ci.com/sarabosy/se_hello_printer_app.svg?branch=master)](https://app.travis-ci.com/sarabosy/se_hello_printer_app)
 
 - Monitoring strony przez statuscake
+
+[![Build Status](https://app.statuscake.com/button/index.php?Track=6226039&Days=1&Design=1)](https://app.statuscake.com/button/index.php?Track=6226039&Days=1&Design=1)
 
 # Pomocnicze
 
